@@ -14,7 +14,7 @@ Initially presented at [DockerCon 2018](https://dockercon18.smarteventscloud.com
 
 ## Observability
 - [Lab 5 - Telemetry](lab-5/README.md)
-- [Lab 6 - Distributed Tracing](lab-4a/README.md)
+- [Lab 6 - Distributed Tracing](lab-6/README.md)
 
 ## Traffic Control - I
 - [Lab 7 - Request Routing and Canary Testing](lab-7/README.md)
